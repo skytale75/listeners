@@ -16,8 +16,8 @@ That is all for basic functionality. I you want to customize your mako notificat
 
 if you want to customize this notification, follow the directions below.
 Unncomment the follwing lines in submap_listen.sh
-  # makoctl mode -r hyprsubmaps
-  # makoctl mode -a hyprsubmaps
+   makoctl mode -r hyprsubmaps
+   makoctl mode -a hyprsubmaps
 
 mkdir -p ~/.config/mako/config
 
