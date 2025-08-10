@@ -3,7 +3,7 @@ A notification or indicator that tells you when a submap (and which) is active i
 For now this presumes you are using "mako" notification manager. I am plannign on adding 
 other notification managers in the future.
 
-1) put the listeners folder in your hypr config file.
+1) Clone this repo into a directory called "listeners" inside your ~/.config/hypr/ directory.
 
 2) add the next line to your hyprland.conf file
 
